@@ -1,0 +1,10 @@
+{
+  "theme": "edgify",
+  "port": 3050,
+  "agentHost": "localhost",
+  "agentPort": 8090,
+  "accountToken": "",
+  "showPoweredByEdgify": true,
+  "closeOnScan": true,
+  "mergeEventTypes": true
+}
